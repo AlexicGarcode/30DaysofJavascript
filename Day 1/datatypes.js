@@ -33,3 +33,4 @@ let yourAge = 'You are 30 years old.';
 
 console.log(myAge);
 console.log(yourAge);
+console.log(myAge + yourAge);
